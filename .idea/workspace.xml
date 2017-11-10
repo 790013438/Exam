@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a248fb5e-2af3-4fe6-bd86-5a9243e20659" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/snippets/test1/SecondaryMax.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/snippets/test2/SequenceGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/snippets/test2/SequenceTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/snippets/test2/.Sequence.java.swp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/snippets/test2/Sequence.java" afterPath="$PROJECT_DIR$/src/main/java/snippets/test2/Sequence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/snippets/test1/SecondaryMaxTest.java" afterPath="$PROJECT_DIR$/src/test/java/snippets/test1/SecondaryMaxTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,11 +29,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="Sequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/snippets/test2/Sequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            <state relative-caret-position="0">
+              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SequenceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/snippets/test2/SequenceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SequenceGenerator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/snippets/test3/SequenceGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -38,21 +62,8 @@
       <file leaf-file-name="SecondaryMax.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/snippets/test1/SecondaryMax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding>
-                <element signature="e#880#881#0" expanded="true" />
-                <element signature="e#905#906#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SecondaryMaxTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/snippets/test1/SecondaryMaxTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="940">
-              <caret line="60" column="25" lean-forward="false" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+            <state relative-caret-position="80">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -63,6 +74,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -92,12 +104,14 @@
         <option value="$PROJECT_DIR$/src/test/java/java/snippets/a/SecondaryMaxTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/snippets/a/Sequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/snippets/a/SecondaryMax.java" />
-        <option value="$PROJECT_DIR$/src/main/java/snippets/test2/Sequence.java" />
         <option value="$PROJECT_DIR$/src/test/java/snippets/a/SecondaryMaxTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/snippets/test1/SecondaryMaxTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/snippets/test1/swap_method_in_java.md" />
         <option value="$PROJECT_DIR$/src/main/java/snippets/test2/SecondaryMax.java" />
         <option value="$PROJECT_DIR$/src/main/java/snippets/test1/SecondaryMax.java" />
+        <option value="$PROJECT_DIR$/src/test/java/snippets/test1/SecondaryMaxTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/snippets/test2/Sequence.java" />
+        <option value="$PROJECT_DIR$/src/test/java/snippets/test2/SequenceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/snippets/test2/SequenceGenerator.java" />
       </list>
     </option>
   </component>
@@ -240,6 +254,15 @@
               <item name="Exam" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="snippets" type="462c0819:PsiDirectoryNode" />
+              <item name="test3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -255,6 +278,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="snippets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="snippets" type="462c0819:PsiDirectoryNode" />
               <item name="test1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -271,6 +303,15 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/snippets" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/snippets/test1" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="snippets.test2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -284,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SecondaryMaxTest.testSecondaryMax (2)">
+  <component name="RunManager" selected="JUnit.SequenceTest.isSequence">
     <configuration name="SecondaryMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -357,15 +398,15 @@
     <configuration name="SecondaryMaxTest.testSecondaryMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="java.snippets.a.*" />
+          <option name="PATTERN" value="snippets.test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Exam" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="java.snippets.a" />
-      <option name="MAIN_CLASS_NAME" value="java.snippets.a.SecondaryMaxTest" />
+      <option name="PACKAGE_NAME" value="snippets.test1" />
+      <option name="MAIN_CLASS_NAME" value="snippets.test1.SecondaryMaxTest" />
       <option name="METHOD_NAME" value="testSecondaryMax" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -379,19 +420,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SecondaryMaxTest.testSecondaryMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SequenceTest.isSequence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="snippets.test1.*" />
+          <option name="PATTERN" value="snippets.test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Exam" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="snippets.test1" />
-      <option name="MAIN_CLASS_NAME" value="snippets.test1.SecondaryMaxTest" />
-      <option name="METHOD_NAME" value="testSecondaryMax" />
+      <option name="PACKAGE_NAME" value="snippets.test2" />
+      <option name="MAIN_CLASS_NAME" value="snippets.test2.SequenceTest" />
+      <option name="METHOD_NAME" value="isSequence" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -464,19 +505,19 @@
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest.testSecondaryMax" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest.testSecondaryMax (1)" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SecondaryMax" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest.testSecondaryMax (2)" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest.testSecondaryMax (1)" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SecondaryMax" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest.testSecondaryMax (2)" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SequenceTest.isSequence" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest.testSecondaryMax (2)" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest.testSecondaryMax (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SecondaryMax" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest.testSecondaryMax" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SequenceTest.isSequence" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest.testSecondaryMax (2)" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest.testSecondaryMax (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SecondaryMax" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SecondaryMaxTest" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +536,7 @@
       <updated>1510278097791</updated>
       <workItem from="1510278107813" duration="1431000" />
       <workItem from="1510292509814" duration="12480000" />
-      <workItem from="1510309592561" duration="7450000" />
+      <workItem from="1510309592561" duration="9802000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1510310728701</created>
@@ -525,18 +566,6 @@
     <history-entry file="SecondaryMaxTest_testSecondaryMax - 2017.11.10 at 20h 30m 55s.xml">
       <configuration name="SecondaryMaxTest.testSecondaryMax" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SecondaryMaxTest_testSecondaryMax_(2) - 2017.11.10 at 17h 43m 26s.xml">
-      <configuration name="SecondaryMaxTest.testSecondaryMax (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecondaryMaxTest_testSecondaryMax_(2) - 2017.11.10 at 18h 28m 15s.xml">
-      <configuration name="SecondaryMaxTest.testSecondaryMax (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecondaryMaxTest_testSecondaryMax_(2) - 2017.11.10 at 18h 51m 34s.xml">
-      <configuration name="SecondaryMaxTest.testSecondaryMax (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecondaryMaxTest_testSecondaryMax_(2) - 2017.11.10 at 18h 51m 53s.xml">
-      <configuration name="SecondaryMaxTest.testSecondaryMax (2)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SecondaryMaxTest_testSecondaryMax_(2) - 2017.11.10 at 18h 52m 51s.xml">
       <configuration name="SecondaryMaxTest.testSecondaryMax (2)" configurationId="JUnit" />
     </history-entry>
@@ -552,12 +581,25 @@
     <history-entry file="SecondaryMaxTest_testSecondaryMax_(2) - 2017.11.10 at 19h 04m 02s.xml">
       <configuration name="SecondaryMaxTest.testSecondaryMax (2)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SequenceTest_isSequence - 2017.11.10 at 21h 08m 40s.xml">
+      <configuration name="SequenceTest.isSequence" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SequenceTest_isSequence - 2017.11.10 at 21h 09m 41s.xml">
+      <configuration name="SequenceTest.isSequence" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SequenceTest_isSequence - 2017.11.10 at 21h 09m 56s.xml">
+      <configuration name="SequenceTest.isSequence" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SequenceTest_isSequence - 2017.11.10 at 21h 10m 14s.xml">
+      <configuration name="SequenceTest.isSequence" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21361000" />
+    <option name="totallyTimeSpent" value="23713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -567,8 +609,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6066351" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32543445" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6034755" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32543445" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40126383" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -760,16 +802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/snippets/test2/Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -805,21 +837,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/snippets/test1/SecondaryMax.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="116">
+          <caret line="492" column="30" lean-forward="false" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/snippets/test1/SecondaryMaxTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="60" column="25" lean-forward="false" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+        <state relative-caret-position="116">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/snippets/test1/SecondaryMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/snippets/test2/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/snippets/test2/SequenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/snippets/test3/SequenceGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>

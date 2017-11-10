@@ -2,7 +2,6 @@ package snippets.test1;
 
 import org.junit.Assert;
 import org.junit.Test;
-import snippets.test1.SecondaryMax;
 
 import java.util.Comparator;
 
@@ -13,7 +12,7 @@ public class SecondaryMaxTest {
         String[] str = {"Zero", "pineapple", "tomato", "spell", "apache", "zero", "zoo"};
         Assert.assertEquals("zero", SecondaryMax.secondaryMax(str));
 
-        Integer[] src = new Integer[]{5,22,22,5};
+        Integer[] src = new Integer[]{5, 22, 22, 5};
         System.out.println(SecondaryMax.secondaryMax(src));
 
         Dry[] dryArray = {new Dry(5, "ha"), new Dry(22, "ta"), new Dry(22, "ta")};
