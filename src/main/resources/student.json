@@ -1,0 +1,26 @@
+[
+  {
+    "id": "currentDate",
+    "class": "java.util.Date",
+    "scope": "prototype"
+  },
+  {
+    "id": "student1",
+    "class": "com.qfedu.Student",
+    "scope": "singleton",
+    "properties": [
+      {
+        "propertyName": "name",
+        "propertyValue": "Wang"
+      },
+      {
+        "propertyName": "age",
+        "propertyValue": 18
+      },
+      {
+        "propertyName": "birthday",
+        "propertyRef": "currentDate"
+      }
+    ]
+  }
+]
