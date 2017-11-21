@@ -11,6 +11,10 @@ public class Client {
     public static void main(String[] args) throws MalformedURLException {
         URL url = new URL("http://api.tianapi.com/txapi/dictum/?key=67c176c58cb185f76518c6b5871f6e1a");
 
+        HttpURLConection connection = (HttpURLConnection) url.openConnection();
+        connection.setRequestMethod("post");
+        connection.addRequestProperty("apikey", "67c176c58cb185f76518c6b5871f6e1a"");
+
         try (InputStream input = url.openStream()){
             StringBuilder jsonStr = new StringBuilder();
             byte[] buffer = new byte[512];
