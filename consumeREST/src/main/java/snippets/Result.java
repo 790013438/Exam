@@ -1,7 +1,13 @@
 package snippets;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class Result {
+
+    @JsonProperty("famous_name")
     private String famousName;
+
+    @JsonProperty("famous_saying")
     private String famousSaying;
 
     public String getFamousName() {
